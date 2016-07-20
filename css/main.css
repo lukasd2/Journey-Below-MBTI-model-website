@@ -442,6 +442,7 @@ footer ul li a {
     padding-top: 10%;
     line-height: 0em;
     border-radius: 50%;
+    -webkit-border-radius: 50%;
     border: 2px solid #74BF36;
     overflow: hidden;
     color: #a9db80;
