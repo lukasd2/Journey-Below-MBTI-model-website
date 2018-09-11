@@ -3,7 +3,7 @@
 This website provides information about MBTI (Myers-Briggs Type Indicator) personality type model.
 
 ------------
-###### Created on: 05/2016 / Live version: https://lukasd2.github.io/Website-project-JourneyBelow-v1.0/
+###### Created on: 05/2016 / Live version: https://lukasd2.github.io/Journey-Below-Presentation-of-MBTI-model/
 ------------
 ### Technologies/features:
 
